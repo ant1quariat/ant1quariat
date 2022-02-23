@@ -15,5 +15,5 @@
   </ul>
 </ul>
 <footer>
-2020-2021 <a href="https://vk.com/quariat_antibot">Antiquariat Team</a>
+2020-2021 <a href="https://vk.com/a.devtm">Antiquariat Team</a>
 </footer>
